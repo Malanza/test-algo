@@ -1,0 +1,14 @@
+{
+  "name": "test-algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-algo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.2.0"
+  }
+}
